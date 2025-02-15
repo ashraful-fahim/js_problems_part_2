@@ -15,7 +15,7 @@ function getCheapestPhone(phones) {
             min = phone;
         }
     }
-    return (min);
+    return min;
 }
 
 const mobile = getCheapestPhone(phones);
