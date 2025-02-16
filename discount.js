@@ -29,5 +29,5 @@ function discountTotal(quantity){
     }
 }
 
-const quantityBought = discountTotal(205);
+const quantityBought = discountTotal(210);
 console.log(quantityBought);

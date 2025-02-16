@@ -16,3 +16,4 @@ function shoppingCart(products){
 
 const shopping = shoppingCart(products);
 console.log(shopping);
+
